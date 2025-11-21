@@ -15,7 +15,7 @@
   "dependencies": {
     "@deveodk/vue-toastr": "^1.1.0",
     "chart.js": "^2.9.3",
-    "eslint": "^7.23.0",
+    "eslint": "^9.0.0",
     "i": "^0.3.6",
     "moment": "^2.29.1",
     "npm": "^7.15.0",
