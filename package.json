@@ -26,7 +26,7 @@
     "nodemailer": "^6.5.0",
     "pg": "^8.5.1",
     "safe-compare": "^1.1.4",
-    "sequelize": "^6.5.0",
+    "sequelize": "^6.6.5",
     "serve-favicon": "^2.5.0",
     "uuid": "^8.3.2",
     "vue-moment": "^4.1.0"
